@@ -8,9 +8,10 @@ ADD
 Lección 13.10: https://youtu.be/OuJerKzV5T0?t=12578
 */
 
--- ADD: Añade un nuevo atributo surname a la tabla "persons8"
+-- ADD: Añade un nuevo atributo/columna (surname) a la tabla "persons8"
 ALTER TABLE persons8
 ADD surname varchar(150);
+
 
 /*
 RENAME COLUMN
